@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AirbnbCereal_W_Bd.otf",
+      "sha1": "8f29435a16c1fa2fac116f9f26bbda068103ee1b"
+    },
+    {
+      "path": "assets/fonts/AirbnbCereal_W_Bk.otf",
+      "sha1": "22d5eb3bfb8578c0291c71b9b7c8d509f1dbb04a"
+    },
+    {
+      "path": "assets/fonts/AirbnbCereal_W_Blk.otf",
+      "sha1": "30cc1d592b9e34052cbc66c2b58e6bd702baac3b"
+    },
+    {
+      "path": "assets/fonts/AirbnbCereal_W_Lt.otf",
+      "sha1": "f746f590bc39817d508a839910e15d9a5f04f3c4"
+    },
+    {
+      "path": "assets/fonts/AirbnbCereal_W_Md.otf",
+      "sha1": "74bfcb77657f123d55c1a319f8f4dd354bf83da4"
+    },
+    {
+      "path": "assets/fonts/AirbnbCereal_W_XBd.otf",
+      "sha1": "8f0a449eabb15871663306d8ffccc8d795dde2ce"
+    },
+    {
+      "path": "assets/fonts/Inter-Black.ttf",
+      "sha1": "283fa65b96dc1f2d71c6504afb9610447bdcdf1b"
+    },
+    {
+      "path": "assets/fonts/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "bff772be6bca9895c6fdcd57e5d5be9a47f2e058"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "421072aef8610cb0f79661b494442a4b9363b43f"
+    },
+    {
+      "path": "assets/fonts/Inter-Light.ttf",
+      "sha1": "dd9ec1ae67dd85143bacf7a3cb37e9f0ac979843"
+    },
+    {
+      "path": "assets/fonts/Inter-Medium.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    },
+    {
+      "path": "assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "431007da316de60d85174aeec9b8389b5c73e7d6"
+    },
+    {
+      "path": "assets/fonts/Inter-Thin.ttf",
+      "sha1": "297919d59c9ba4fa17251cdb9f06c26ca906e593"
+    }
+  ]
+}

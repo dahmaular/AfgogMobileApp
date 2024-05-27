@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124475993723",
+    "project_id": "afgog-1a208",
+    "storage_bucket": "afgog-1a208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124475993723:android:11372abd068a0f78cabcde",
+        "android_client_info": {
+          "package_name": "com.afgog.afgogmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124475993723-7mo273iiekqqcmmgfh1eun5vjmbfcksp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXXuLT-rZEXs9geN9C16oMhbuMbirrUlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124475993723-7mo273iiekqqcmmgfh1eun5vjmbfcksp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
